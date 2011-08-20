@@ -13,7 +13,6 @@ public class LocationView extends View {
 	private String text = null;
 	private int backgroundColor = Color.DKGRAY;
 	private float x, y;
-	private String tempText;
 	static Boolean flag = false;
 
 	// 속성이 없는 생성자는 소스상에서 직접 생성할때만 쓰인다. 
